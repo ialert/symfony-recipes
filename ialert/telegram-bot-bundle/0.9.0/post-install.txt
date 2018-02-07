@@ -1,0 +1,8 @@
+<bg=blue;fg=white>                     </>
+<bg=blue;fg=white> Next: Configuration </>
+<bg=blue;fg=white>                     </>
+
+  * Modify your TELEGRAM_BOT_USERNAME config in <fg=green>.env</>
+  * Modify your TELEGRAM_BOT_TOKEN config in <fg=green>.env</>
+  * Modify your TELEGRAM_TRACKER_TOKEN config in <fg=green>.env</>
+  * Configure your parameters in <fg=green>config/packages/ialert_telegrambot.yaml</>

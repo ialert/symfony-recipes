@@ -1,0 +1,13 @@
+{
+    "bundles": {
+        "Ialert\\TelegramBotBundle": ["all"]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "env": {
+        "TELEGRAM_BOT_USERNAME": "",
+        "TELEGRAM_BOT_TOKEN": "",
+        "TELEGRAM_TRACKER_TOKEN": ""
+    }
+}
