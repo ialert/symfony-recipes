@@ -1,0 +1,6 @@
+ialert_telegram_bot:
+    api:
+        username: '%env(TELEGRAM_BOT_USERNAME)%'
+        token: '%env(TELEGRAM_BOT_TOKEN)%'
+    tracker:
+        token: '%env(TELEGRAM_TRACKER_TOKEN)%'
