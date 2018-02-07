@@ -1,4 +1,4 @@
-ialert_telegrambot:
+ialert_telegram_bot:
     api:
         username: '%env(TELEGRAM_BOT_USERNAME)%'
         token: '%env(TELEGRAM_BOT_TOKEN)%'
